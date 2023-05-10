@@ -1,4 +1,4 @@
-#!/home/qowltmd/mobilep/djangoenv/myvenv/bin/python3
+#!/home/qowltmd/mobilep/djangoenv/myvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
